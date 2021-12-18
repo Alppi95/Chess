@@ -1,0 +1,205 @@
+﻿  ChessPiece.cpp
+c:\users\miikk\source\repos\chess\chess\station.h(9): error C2504: 'ChessPiece': base class undefined
+c:\users\miikk\source\repos\chess\chess\chesspiece.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Interface.cpp
+c:\users\miikk\source\repos\chess\chess\station.h(9): error C2504: 'ChessPiece': base class undefined
+c:\users\miikk\source\repos\chess\chess\station.h(39): error C2061: syntax error: identifier 'Move'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\interface.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Move.cpp
+c:\users\miikk\source\repos\chess\chess\station.h(9): error C2504: 'ChessPiece': base class undefined
+c:\users\miikk\source\repos\chess\chess\station.h(39): error C2061: syntax error: identifier 'Move'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2061: syntax error: identifier 'Square'
+  Source.cpp
+c:\users\miikk\source\repos\chess\chess\station.h(9): error C2504: 'ChessPiece': base class undefined
+c:\users\miikk\source\repos\chess\chess\station.h(39): error C2061: syntax error: identifier 'Move'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\station.h(44): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\interface.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\miikk\source\repos\chess\chess\source.cpp(24): error C2664: 'void Station::giveAllowedMoves(std::list &)': cannot convert argument 1 from 'std::list<Move,std::allocator<_Ty>>' to 'std::list &'
+          with
+          [
+              _Ty=Move
+          ]
+c:\users\miikk\source\repos\chess\chess\source.cpp(35): error C2660: 'Station::updatePos': function does not take 1 arguments
+  c:\users\miikk\source\repos\chess\chess\station.h(39): note: see declaration of 'Station::updatePos'
+  Square.cpp
+c:\users\miikk\source\repos\chess\chess\move.h(8): error C3646: '_startPos': unknown override specifier
+c:\users\miikk\source\repos\chess\chess\move.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\miikk\source\repos\chess\chess\move.h(9): error C3646: '_endPos': unknown override specifier
+c:\users\miikk\source\repos\chess\chess\move.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\miikk\source\repos\chess\chess\move.h(13): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\move.h(14): error C2535: 'Move::Move(void)': member function already defined or declared
+  c:\users\miikk\source\repos\chess\chess\move.h(13): note: see declaration of 'Move::Move'
+c:\users\miikk\source\repos\chess\chess\move.h(17): error C3646: 'getStartPos': unknown override specifier
+c:\users\miikk\source\repos\chess\chess\move.h(17): error C2059: syntax error: '('
+c:\users\miikk\source\repos\chess\chess\move.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\miikk\source\repos\chess\chess\move.h(18): error C3646: 'getEndPos': unknown override specifier
+c:\users\miikk\source\repos\chess\chess\move.h(18): error C2059: syntax error: '('
+c:\users\miikk\source\repos\chess\chess\move.h(18): error C2238: unexpected token(s) preceding ';'
+c:\users\miikk\source\repos\chess\chess\move.h(24): error C2065: '_startPos': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\move.h(24): error C2039: '_startPos': is not a member of 'Move'
+  c:\users\miikk\source\repos\chess\chess\move.h(6): note: see declaration of 'Move'
+c:\users\miikk\source\repos\chess\chess\move.h(24): error C2065: '_endPos': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\move.h(25): error C2039: '_endPos': is not a member of 'Move'
+  c:\users\miikk\source\repos\chess\chess\move.h(6): note: see declaration of 'Move'
+c:\users\miikk\source\repos\chess\chess\station.h(9): error C2504: 'ChessPiece': base class undefined
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2061: syntax error: identifier 'Square'
+  Station.cpp
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(43): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(51): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(58): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(64): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(71): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2065: 'Move': undeclared identifier
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2923: 'std::list': 'Move' is not a valid template type argument for parameter '_Ty'
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2903: 'allocator': symbol is neither a class template nor a function template
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\miikk\source\repos\chess\chess\chesspiece.h(78): error C2061: syntax error: identifier 'Square'
+c:\users\miikk\source\repos\chess\chess\station.cpp(218): error C2660: 'ChessPiece::giveMoves': function does not take 4 arguments
+  c:\users\miikk\source\repos\chess\chess\chesspiece.h(29): note: see declaration of 'ChessPiece::giveMoves'
+  Generating Code...
